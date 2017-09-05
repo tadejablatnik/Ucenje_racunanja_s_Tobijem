@@ -1,2 +1,3 @@
-# Ucenje_racunanja_s_Tobijem
-To je program za učenje računanja, namenjen je predvsem osnovnošolcem.
+# Moj super projekt
+
+To je moj prvi projekt na GitHubu. Ustvarjen *3. maja 2017*.
